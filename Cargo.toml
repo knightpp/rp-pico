@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["blinky", "sounds"]
+members = ["blinky", "sounds", "leds"]
 
 [workspace.dependencies]
 cortex-m = "0.7"
